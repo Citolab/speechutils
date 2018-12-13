@@ -1,6 +1,7 @@
 .gradle/
 .idea/
 app/app.iml
+app/speechutils-app.iml
 app/build/
 ./build.gradle
 build/
